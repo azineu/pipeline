@@ -55,28 +55,3 @@ a{
 	
 	
 }
-.baixo{
-	width:250px;
-	text-align:center;
-	border: 4px solid #6e1212;
-	margin-right: 50px;
-	overflow: hidden;
-	margin-top:15px;
-	font-family: "fira code", Arial, Helvetica, sans-serif;
-	font-weight: bold;
-}
-.clas{
-	display: flex ;
-	margin-top:15px;
-	border:2px solid #6e1212;
-	background-color: #A52A2A;
-	justify-content: space-between;
-	align-items: center;
-	font-family: "fira code", Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	border-top: 7px solid #000;
-}	
-
-.final{	
-	margin-right:350px;
-}
